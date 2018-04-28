@@ -1,17 +1,13 @@
-package org.drulabs.example.db;
+package mariat.ndagire.example;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import org.drulabs.example.model.DeviceDTO;
+package mariat.ndagire.example;.model.DeviceDTO;
 
 import java.util.ArrayList;
-
-/**
- * Authored by KaushalD on 8/27/2016.
- */
 public class DBAdapter {
 
     //TODO Cursors have not been closed. Please close it.
